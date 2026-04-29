@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppGuard X</string>
+    <string name="scan_button">Start Scan</string>
+    <string name="rescan_button">Rescan Device</string>
+    <string name="scanning">Scanning…</string>
+    <string name="include_system_apps">Include System Apps</string>
+    <string name="dashboard_title">Security Dashboard</string>
+    <string name="high_risk">High Risk</string>
+    <string name="medium_risk">Medium Risk</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="security_score">Security Score</string>
+    <string name="permissions">Permissions</string>
+    <string name="risk_reason">Risk Assessment</string>
+    <string name="suspicious_permissions">Suspicious Permissions</string>
+    <string name="unnecessary_permissions">Unnecessary Permissions</string>
+</resources>

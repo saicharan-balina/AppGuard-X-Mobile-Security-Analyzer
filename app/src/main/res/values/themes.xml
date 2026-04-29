@@ -1,0 +1,9 @@
+<resources>
+    <!-- For Compose-only apps, use AppCompat as the XML parent.
+         All Material3 theming is handled in Kotlin via AppGuardXTheme. -->
+    <style name="Theme.AppGuardX" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>
